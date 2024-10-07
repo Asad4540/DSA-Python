@@ -1,3 +1,5 @@
+# Compare two numbers and find the greatest one
+
 x = 35
 y= 42
 
