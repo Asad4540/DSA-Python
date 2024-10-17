@@ -10,4 +10,3 @@ def multiply_table (num) :
 
 number = int(input("Enter a number : "))
 multiply_table(number)
-
